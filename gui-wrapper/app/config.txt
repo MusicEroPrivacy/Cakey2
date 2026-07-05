@@ -1,0 +1,4 @@
+# This file tells the wrapper which binary to launch.
+# You can replace this binary at any time in the app directory.
+
+APP_BINARY=cake_wallet
